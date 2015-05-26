@@ -1,3 +1,3 @@
 # Sample
 
-# conflict1
+# conflict1 & conflict2
